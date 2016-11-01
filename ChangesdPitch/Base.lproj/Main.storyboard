@@ -16,7 +16,7 @@
                         <viewControllerLayoutGuide type="bottom" id="l98-xK-j4t"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="1770"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="homepagenew" translatesAutoresizingMaskIntoConstraints="NO" id="p4P-tq-C6o">
@@ -170,7 +170,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="225" y="-391"/>
+            <point key="canvasLocation" x="399" y="-690"/>
         </scene>
         <!--Contact View Controller-->
         <scene sceneID="r3y-n5-VB3">
@@ -604,7 +604,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Xcr-4B-4bI" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="236" y="462"/>
+            <point key="canvasLocation" x="398" y="459"/>
         </scene>
         <!--Interview Questions View Controller-->
         <scene sceneID="EbW-Jm-jUV">
@@ -812,7 +812,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qIN-wa-FR8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1160" y="533"/>
+            <point key="canvasLocation" x="-1578" y="445"/>
         </scene>
         <!--Pitch Do View Controller-->
         <scene sceneID="S97-lu-iIf">
@@ -1581,7 +1581,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ww2-Y4-m7v" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="772" y="462"/>
+            <point key="canvasLocation" x="1081" y="468"/>
         </scene>
         <!--PitchV Ideo View Controller-->
         <scene sceneID="FOd-2b-Cz4">
@@ -2470,7 +2470,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fnR-ci-7U3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1521.5" y="1493"/>
+            <point key="canvasLocation" x="1908" y="1467"/>
         </scene>
         <!--Men Clothing-->
         <scene sceneID="Mda-S6-DsN">
@@ -2614,7 +2614,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5af-pS-haI" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1956.5" y="1422"/>
+            <point key="canvasLocation" x="2810" y="1403"/>
         </scene>
         <!--Pitch Structure View Controller-->
         <scene sceneID="EEs-mH-VDO">
@@ -4971,15 +4971,15 @@ Cg
         <image name="whitesuitWEB" width="144" height="187"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="3dD-8I-jZ5"/>
-        <segue reference="Max-mG-wsn"/>
+        <segue reference="z2R-vV-1HW"/>
+        <segue reference="mHN-ZT-XTN"/>
+        <segue reference="89s-hI-VGR"/>
         <segue reference="9pm-CG-as9"/>
         <segue reference="3mO-GD-cyR"/>
-        <segue reference="89s-hI-VGR"/>
-        <segue reference="IbN-hI-M0F"/>
-        <segue reference="aVB-JK-DmL"/>
         <segue reference="Ikz-A7-E2e"/>
-        <segue reference="ESn-Li-mSe"/>
+        <segue reference="aVB-JK-DmL"/>
         <segue reference="qDV-xr-vgv"/>
+        <segue reference="ESn-Li-mSe"/>
+        <segue reference="IbN-hI-M0F"/>
     </inferredMetricsTieBreakers>
 </document>
